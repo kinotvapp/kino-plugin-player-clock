@@ -1,0 +1,4 @@
+node_modules/
+.kino-shared.json
+.kino-*.json
+.env
